@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 - 🌱 Currently learning: **Full Stack Web Development**
 - 🔭 Working on cool projects involving **JavaScript**, **Python**, and **React**
 - 💬 Ask me about **Web Development**, **APIs**, or **Open Source**
-- 📫 Reach me at: [your-email@example.com](mailto:ankitiaf2002@gmail.com)
+- 📫 Reach me at: [ankitiaf2002@gnail.com](mailto:ankitiaf2002@gnail.com)
 - ⚡ Fun fact: I love automating boring stuff 🤖
 
 ---
@@ -38,13 +38,21 @@ Welcome to my GitHub profile!
 
 ---
 
+## 🌐 Featured Project
+
+🚀 **[Social Media Project](https://github.com/ankit938/social_media_project_webkul?tab=readme-ov-file)**  
+Check out my web-based social media project – hosted here:  
+🔗 [http://ankitsocialmedia.infinityfreeapp.com/?i=1](http://ankitsocialmedia.infinityfreeapp.com/?i=1)
+
+---
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ankitiaf2002/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Website-black?style=flat-square&logo=firefox&logoColor=white)](http://ankitsocialmedia.infinityfreeapp.com/?i=1)
 
 ---
 
 ![Thanks for visiting!](https://raw.githubusercontent.com/ankit8362/ankit8362/main/assets/wave.svg)
-
