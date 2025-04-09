@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 - 🌱 Currently learning: **Full Stack Web Development**
 - 🔭 Working on cool projects involving **JavaScript**, **Python**, and **React**
 - 💬 Ask me about **Web Development**, **APIs**, or **Open Source**
-- 📫 Reach me at: [your-email@example.com](mailto:ankitmishra1022002@gmail.com)
+- 📫 Reach me at: [your-email@example.com](mailto:ankitiaf2002@gmail.com)
 - ⚡ Fun fact: I love automating boring stuff 🤖
 
 ---
