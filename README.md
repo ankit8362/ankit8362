@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 - 🌱 Currently learning: **Full Stack Web Development**
 - 🔭 Working on cool projects involving **JavaScript**, **Python**, and **React**
 - 💬 Ask me about **Web Development**, **APIs**, or **Open Source**
-- 📫 Reach me at: [ankitiaf2002@gnail.com](mailto:ankitiaf2002@gnail.com)
+- 📫 Reach me at: [ankitiaf2002@gnail.com](mailto:ankitiaf2002@gmail.com)
 - ⚡ Fun fact: I love automating boring stuff 🤖
 
 ---
