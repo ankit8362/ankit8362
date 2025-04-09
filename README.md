@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 - 🌱 Currently learning: **Full Stack Web Development**
 - 🔭 Working on cool projects involving **JavaScript**, **Python**, and **React**
 - 💬 Ask me about **Web Development**, **APIs**, or **Open Source**
-- 📫 Reach me at: [ankitiaf2002@gnail.com](mailto:ankitiaf2002@gmail.com)
+- 📫 Reach me at: [ankitiaf2002@gmail.com](mailto:ankitiaf2002@gmail.com)
 - ⚡ Fun fact: I love automating boring stuff 🤖
 
 ---
@@ -38,11 +38,13 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🌐 Featured Project
+## 🌐 Featured Projects
 
-🚀 **[Social Media Project](https://github.com/ankit938/social_media_project_webkul?tab=readme-ov-file)**  
-Check out my web-based social media project – hosted here:  
-🔗 [http://ankitsocialmedia.infinityfreeapp.com/?i=1](http://ankitsocialmedia.infinityfreeapp.com/?i=1)
+### 🚀 [Social Media Project](https://github.com/ankit938/social_media_project_webkul?tab=readme-ov-file)  
+🔗 Live: [ankitsocialmedia.infinityfreeapp.com](http://ankitsocialmedia.infinityfreeapp.com/?i=1)
+
+### 📇 [Employee Management System (Contact Me)](http://ankitemployeemanagementsystem.infinityfreeapp.com/)  
+Manage employees, check records, and connect with me via this platform.
 
 ---
 
