@@ -41,18 +41,17 @@ Welcome to my GitHub profile!
 ## 🌐 Featured Projects
 
 ### 🚀 [Social Media Project](https://github.com/ankit938/social_media_project_webkul?tab=readme-ov-file)  
-🔗 Live: [ankitsocialmedia.infinityfreeapp.com](http://ankitsocialmedia.infinityfreeapp.com/?i=1)
+🔗 Live Demo: [ankitsocialmedia.infinityfreeapp.com](http://ankitsocialmedia.infinityfreeapp.com/?i=1)
 
-### 📇 [Employee Management System (Contact Me)](http://ankitemployeemanagementsystem.infinityfreeapp.com/)  
-Manage employees, check records, and connect with me via this platform.
+### 📇 [Employee Management System – Contact Me](http://ankitemployeemanagementsystem.infinityfreeapp.com/)  
+Manage employee data, interact with the system, or contact me here!
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-mishra-109558296/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ankitiaf2002/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
 [![Portfolio](https://img.shields.io/badge/-Website-black?style=flat-square&logo=firefox&logoColor=white)](http://ankitsocialmedia.infinityfreeapp.com/?i=1)
 
 ---
